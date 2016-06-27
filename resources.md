@@ -19,6 +19,8 @@ As I learn and work my way through Bayesian data analysis and machine learning m
 
 
 #Links
+## Learning from Academia
+
 
 #[GitHub](github.com) Repos
 
@@ -26,8 +28,6 @@ As I learn and work my way through Bayesian data analysis and machine learning m
 Nothing yet...watching this space.
 
 #Conferences
-
-* 
 
 #Journals
 
@@ -39,7 +39,4 @@ Nothing yet...watching this space.
 
 #Glossary
 
-
-
-<hr>
 [^GelmanQuote]: Taken from Gelman's back-cover quote.
