@@ -28,6 +28,10 @@ As I learn and work my way through Bayesian data analysis and machine learning m
 Nothing yet...watching this space.
 
 #Conferences
+* Neural Information Processing Symposium (NIPS)
+* International Conference on Machine Learning (ICML)
+* Open Data Science (OSDC)
+* SciPy Conference
 
 #Journals
 
@@ -36,6 +40,10 @@ Nothing yet...watching this space.
 #Organizations
 
 #People
+* Andrew Gelman
+* Chris Fonnesbeck
+* John Salvatier
+* Thommas Twiecki
 
 #Glossary
 
